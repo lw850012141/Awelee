@@ -26,3 +26,14 @@ hs_err_pid*
 .idea/modules.xml
 .idea/vcs.xml
 Awelee.iml
+target/classes/META-INF/
+target/classes/application-dev.properties
+target/classes/application.properties
+target/classes/banner.txt
+target/classes/generator/
+target/classes/mapper/
+target/classes/static/
+target/classes/templates/
+target/classes/test.sql
+target/generated-sources/
+target/generated-test-sources/

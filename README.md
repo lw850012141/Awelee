@@ -20,7 +20,7 @@ Spring Boot + Mybatis + FreeMarker<br>
 4.application-dev.properties 开发环境<br>
 5.application-fat.properties  测试环境<br>
 6.application-uat.properties 集成环境<br>
-7.application-pro.properties 生成环境<br>
+7.application-pro.properties 生产环境<br>
 8.banner.txt 启动显示，酷酷滴<br>
 
 四、数据库<br>
